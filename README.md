@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stat</h3>
 
 <p>
   <img 
